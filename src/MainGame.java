@@ -150,7 +150,7 @@ public class MainGame {
             potions --;
             System.out.println("-------------------------------------------");
             wait(1.0f);
-            System.out.println(heroName + "Now has the hit points of: "+ playerHealth);
+            System.out.println(heroName + ", Now has the hit points of: "+ playerHealth);
         }
     }
 
